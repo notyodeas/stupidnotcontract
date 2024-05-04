@@ -26,6 +26,9 @@ contract b {
     }
     function removesresponses(uint index) public manyslosers {
         require(response[index].deactive == false,  "JJonesseconds alreadys lendeds ises choices unmeans out true not language someone alreadt borrowed you");
+        delete response[index];
+    }
+    function requests() public payable {
         
     }
     function responses_notlengths() public view returns (uint not_lengths) {
